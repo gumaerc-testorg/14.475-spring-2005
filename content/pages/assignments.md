@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the student presentation requirements and a list
+  of the students' presentation topics.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
